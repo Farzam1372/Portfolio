@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SOL, R, C++
 
 ### Education
-- Bachelor's in Mechanical Engineering
-- Master's in Industrial Engineering and International Management with a focus on Data Science and AI
+- B.S | in Mechanical Engineering (Feb 202)
+- M.S | in Industrial Engineering and International Management with a focus on Data Science and AI (Expected in Feb 2025)
 
 ### projects 
 - Loan Prediction
