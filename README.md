@@ -31,35 +31,35 @@
 - ## Project 3 : Rain Prediction in Australia
 - ## Project 2 : Analysis of House Sales in the USA - Coursera Project
 - ## Project 1 : Analyzing Stock Performance and Building a Dashboard Mini Project Course
-----------
+  
+---
 
-
-- ## Project 6 : Loan Prediction
+- # Project 6 : Loan Prediction
 ## Gathering Data from International Bank Dataset (2021):**  
    Acquiring raw information from diverse sources within the banking domain is the initial step. This involves accessing databases, APIs, or other data repositories to collect pertinent data points like customer information, financial transactions, loan details, etc.
 
-## Cleaning the Data:**  
+## Cleaning the Data:
    Subsequent to data gathering, the data is cleaned. This phase entails preprocessing and refining the collected data to ensure its quality, consistency, and completeness. Tasks include handling missing values, removing duplicates, correcting errors, and standardizing formats.
 
-## Data Analysis and Exploration:**  
+## Data Analysis and Exploration: 
    Following data cleaning, the data undergoes analysis and exploration. This phase aims to gain insights and understand patterns within the data through statistical methods, descriptive analysis, and data visualization techniques. Exploratory data analysis uncovers trends, correlations, and outliers, providing a deeper understanding of the dataset's characteristics.
 
-## Splitting Data into Training and Test Datasets:**  
+## Splitting Data into Training and Test Datasets:
    Crucial for building and evaluating predictive models, this step involves dividing the data into training and test datasets. The training dataset is used to train the model, while the test dataset assesses its performance on unseen data. This ensures the model's generalizability to new data and helps prevent overfitting.
 
-## Utilizing XGBoost Algorithm for Training:**  
+## Utilizing XGBoost Algorithm for Training:
    The XGBoost algorithm is commonly used in data science, particularly for predictive modeling tasks. It's an efficient and scalable gradient boosting framework adept at handling structured/tabular data, widely employed for classification and regression tasks.
 
-## Model Training and Evaluation:**  
+## Model Training and Evaluation:
    After training the model on the training dataset, it's evaluated on the test dataset to assess predictive performance. The model's ability to accurately predict loan defaults or non-defaults is measured using evaluation metrics like accuracy, precision, recall, F1-score, etc. These metrics offer insights into the model's effectiveness, informing decision-making processes in the banking domain.
 
 In summary, this data science workflow involves gathering, cleaning, analyzing, and modeling data from an international bank dataset. It employs various steps and techniques to extract actionable insights and build predictive models supporting decision-making processes in the banking industry.
 
-=========
+---
 
-- ## Project 5 : Salary Estimation for Data Positions in the USA Public
+- # Project 5 : Salary Estimation for Data Positions in the USA Public
 
-This project focuses on estimating salaries utilizing both linear regression and classification models. It encompasses the following key stages:
+This project focuses on estimating salaries utilizing both linear regression and classification models (Logistic , KNN, Decision Trees, Random Forest). It encompasses the following key stages:
 
 ## Data Importing and Cleaning from Glassdoor:
 This initial step involves gathering relevant data from Glassdoor, a popular platform for job listings and employer reviews. The collected data undergoes cleaning processes to address any inconsistencies, missing values, or errors, ensuring the dataset's integrity for subsequent analysis.
@@ -76,7 +76,7 @@ Data preprocessing encompasses various tasks such as handling missing values, en
 ## Modeling and Evaluation:
 In this phase, different machine learning models, including linear regression and classification algorithms, are trained on the preprocessed data to predict salaries. Models are evaluated using appropriate metrics such as mean squared error (MSE), accuracy, precision, recall, or F1-score, depending on the nature of the problem (regression or classification). Evaluation helps in assessing model performance and selecting the best-performing model for further refinement.
 
-## Fine-Tuning:
+## Fine Tuning:
 Fine-tuning involves optimizing model hyperparameters and configurations to improve their performance further. Techniques such as grid search, random search, or Bayesian optimization are employed to systematically explore the hyperparameter space and identify the optimal settings that yield the best model performance.
 
 ## rediction and Deployment:
