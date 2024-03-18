@@ -1,5 +1,5 @@
 title: Farzam Nazari
-logo: ![Profile Picture](https://raw.githubusercontent.com/Farzam1372/Farzam1372.github.io/main/headshot.jpeg)
-#description: text below image
+logo: https://github.com/Farzam1372/Farzam1372.github.io/raw/main/headshot.jpeg
+#description: Text below image
 show_downloads: true
 theme: jekyll-theme-minimal
