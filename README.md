@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SOL, R, C++
+# Technical Skills: Python, SOL, R, C++
 
-#### Tools : Power BI, Tableau, VS Code, Jupyter, AWS, AZURE, MySQL, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook
+# Tools : Power BI, Tableau, VS Code, Jupyter, AWS, AZURE, MySQL, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook
 
-### Education
+# Education
 
 - 🎓 High school | Mathematics | SALAM | Tehran, Iran  
 - 🎓 Bachelor | Mechanical Engineering | Azad Univeristy | Tehran, Iran | Feb 202
