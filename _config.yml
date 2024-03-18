@@ -1,7 +1,5 @@
 title: Farzam Nazari
 logo: https://github.com/Farzam1372/Farzam1372.github.io/raw/main/headshot.jpeg
-#description: Text below image
+description: Text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-<img src="https://github.com/Farzam1372/Farzam1372.github.io/raw/main/headshot.jpeg" alt="Profile Picture" class="circular-logo">
-![Profile Picture](https://github.com/Farzam1372/Farzam1372.github.io/raw/main/headshot.jpeg){: .circular-logo}
