@@ -1,3 +1,5 @@
+![Profile Picture](https://avatars.githubusercontent.com/u/134938081?s=96&v=4)
+
 # Data Scientist
 
 #### Technical Skills: Python, SOL, R, C++
