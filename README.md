@@ -1,4 +1,8 @@
-![Logo](https://raw.githubusercontent.com/Farzam1372/Farzam1372.github.io/main/WhatsApp%20Image%202024-03-18%20at%2016.36.04.jpeg)
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Farzam1372/Farzam1372.github.io/main/WhatsApp%20Image%202024-03-18%20at%2016.36.04.jpeg" alt="Profile Picture" style="width: 50px; height: auto; margin-right: 10px;">
+    <span style="font-weight: bold;">Logo</span>
+</div>
+
 
 
 # Data Scientist
