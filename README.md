@@ -2,15 +2,18 @@
 
 # Technical Skills: 
 ## Python, SOL, R, C++
+----
 
 # Tools : 
 ## Power BI, Tableau, VS Code, Jupyter, AWS, AZURE, MySQL, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook
+---
 
 # Education
 
 - 🎓 High school | Mathematics | SALAM | Tehran, Iran  
 - 🎓 Bachelor | Mechanical Engineering | Azad Univeristy | Tehran, Iran | Feb 202
 - 🎓 Master | Industrial Engineering and International Management with a focus on Data Science and AI | Hochschule Fresenius | Berlin, Germany | Expected in Feb 2025
+---
 
 # Summary of Skills & Expertise 🚀
 
