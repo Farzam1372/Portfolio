@@ -1,4 +1,4 @@
-![Profile Picture](https://raw.githubusercontent.com/Farzam1372/Farzam1372.github.io/main/WhatsApp%20Image%202024-03-18%20at%2016.36.04.jpeg)
+![Logo](https://raw.githubusercontent.com/Farzam1372/Farzam1372.github.io/main/WhatsApp%20Image%202024-03-18%20at%2016.36.04.jpeg)
 
 
 # Data Scientist
