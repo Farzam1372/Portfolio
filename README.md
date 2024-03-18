@@ -3,8 +3,20 @@
 #### Technical Skills: Python, SOL, R, C++
 
 ### Education
-- B.S | in Mechanical Engineering (Feb 202)
-- M.S | in Industrial Engineering and International Management with a focus on Data Science and AI (Expected in Feb 2025)
+-🎓 High school | Mathematics | SALAM | Tehran, Iran  
+-🎓 Bachelor | Mechanical Engineering | Azad Univeristy | Tehran, Iran | Feb 202
+-🎓 Master | Industrial Engineering and International Management with a focus on #(Data Science and AI) | Hochschule Fresenius | Berlin, Germany | Expected in Feb 2025
+
+
+
+
+
+
+
+
+
+
+
 
 ### projects 
 - Loan Prediction
