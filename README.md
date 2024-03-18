@@ -5,14 +5,14 @@
 ----
 
 # Tools : 
-## Power BI, Tableau, AWS, AZURE, MySQL, IBM Watson, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook, VS Code, Jupyter
+## Power BI, Tableau, AWS, AZURE, MySQL, gitHub,IBM Watson, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook, VS Code, Jupyter
 ---
 
 # Education
 
-- 🎓 High school  |  Mathematics                            |  SALAM    |  Tehran, Iran  
-- 🎓 Bachelor     |  Mechanical Engineering                 |  Azad Univeristy  | Tehran, Iran  |  Feb 202
-- 🎓 Master       |  Industrial Engineering & International Management with a focus on Data Science and AI  |  Hochschule Fresenius  |  Berlin, Germany  |  Expected in Feb 2025
+- 🎓 High school  |  Mathematics                            |  SALAM    |  Tehran, Iran  |  2009 - 2013 
+- 🎓 Bachelor     |  Mechanical Engineering                 |  Azad Univeristy  | Tehran, Iran  |  2013 - Feb 202
+- 🎓 Master       |  Industrial Engineering & International Management with a focus on Data Science and AI  |  Hochschule Fresenius  |  Berlin, Germany  |  2023 - Expected in Feb 2025
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 - # Project 6 : Loan Prediction
-## Gathering Data from International Bank Dataset (2021):**  
+## Gathering Data from International Bank Dataset (2021): 
    Acquiring raw information from diverse sources within the banking domain is the initial step. This involves accessing databases, APIs, or other data repositories to collect pertinent data points like customer information, financial transactions, loan details, etc.
 
 ## Cleaning the Data:
@@ -82,4 +82,4 @@ Fine-tuning involves optimizing model hyperparameters and configurations to impr
 ## rediction and Deployment:
 Once the model is trained and fine-tuned, it is deployed to make predictions on new, unseen data. This deployed model can be integrated into production systems or used to provide interactive tools for users to explore salary predictions for data positions in the USA. Continuous monitoring and maintenance ensure that the deployed model remains accurate and relevant over time.
 
-========
+---
