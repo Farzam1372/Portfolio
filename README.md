@@ -1,11 +1,11 @@
 # Data Scientist
 
 # Technical Skills: 
-## Python, SOL, R, C++
+## Python, SQL, R, C++
 ----
 
 # Tools : 
-## Power BI, Tableau, VS Code, Jupyter, AWS, AZURE, MySQL, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook
+## Power BI, Tableau, AWS, AZURE, MySQL, IBM Watson, Google Sheet, ERP(IFS), SAP, MS Excel, MS Word, MS PowerPoint, MS OutLook, VS Code, Jupyter
 ---
 
 # Education
